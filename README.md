@@ -9,4 +9,6 @@ This github project provides the design document for a cantilevered computer sup
 
 * pics: example of pictures of the standing desk
 
-![Standing desk](https://github.com/cedricpradalier/standing-desk/blob/main/pics/IMG_20210303_231314.jpg)
+![Standing desk 1](https://github.com/cedricpradalier/standing-desk/blob/main/pics/IMG_20210306_170214.jpg)
+![Standing desk 1](https://github.com/cedricpradalier/standing-desk/blob/main/pics/IMG_20210306_170236.jpg)
+![Standing desk 1](https://github.com/cedricpradalier/standing-desk/blob/main/pics/IMG_20210306_170303.jpg)
